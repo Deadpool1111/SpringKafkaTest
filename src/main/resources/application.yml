@@ -1,0 +1,6 @@
+kafka: 
+  consumer: 
+    bootstrap-server: localhost:9092
+    
+  producer: 
+    bootstrap-server: localhost:9092
